@@ -10,5 +10,3 @@
 ```bash
 g++ -o vector main.cpp
 ./vector
-
-
